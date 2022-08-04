@@ -5,7 +5,7 @@ on:
     branches: [ master ]
     paths:
       - '.github/**'
-      - 'deploy/**'
+      - 'patches/**'
       - 'index.js'
   workflow_dispatch:
 

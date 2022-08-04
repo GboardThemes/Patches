@@ -6,5 +6,66 @@
     "size": 301,
     "date": 1659607010000,
     "name": "Test Patch"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/3d-ify.zip",
+    "author": "RKBDI",
+    "tags": [
+      "border"
+    ],
+    "size": 348,
+    "date": 1659602692000,
+    "name": "3D-ify"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoledify.zip",
+    "author": "RKBDI",
+    "tags": [
+      "color",
+      " amoled"
+    ],
+    "size": 368,
+    "date": 1659602692000,
+    "name": "Amoledify"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 415,
+    "date": 1659602692000,
+    "name": "Font sans-serif-smallcaps"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/low_pixel_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 3763,
+    "date": 1659602692000,
+    "name": "Low pixel icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
+    "author": "RKBDI",
+    "tags": [
+      "border"
+    ],
+    "size": 399,
+    "date": 1659602692000,
+    "name": "rounded keys"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/top_rounded.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 401,
+    "date": 1659602692000,
+    "name": "Top rounded corners"
   }
 ]

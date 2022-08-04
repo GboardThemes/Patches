@@ -1,0 +1,36 @@
+name: Build Patches
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/**'
+      - 'deploy/**'
+      - 'index.js'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Fetch all commits
+        run: git fetch --prune --unshallow; git pull origin main
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18.7.0'
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Build Patches
+        run: node index.js patches
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          default_author: github_actions

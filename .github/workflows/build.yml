@@ -2,7 +2,7 @@ name: Build Patches
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       - '.github/**'
       - 'deploy/**'
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch all commits
-        run: git fetch --prune --unshallow; git pull origin main
+        run: git fetch --prune --unshallow; git pull origin master
 
       - name: Setup Node
         uses: actions/setup-node@v2

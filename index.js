@@ -31,7 +31,7 @@ async function run() {
             await new Promise((res) => {
                 gitLog.default({
                     repo: process.cwd(),
-                    file: path.join(packPath, pack),
+                    file: path.join(patchPath, patch),
                     fields: ["hash", "authorName", "authorDate"]
                 }, (error, commits) => {
                     const commit = commits[0]

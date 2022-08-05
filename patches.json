@@ -24,8 +24,8 @@
       "color",
       "amoled"
     ],
-    "size": 491,
-    "date": 1659730810000,
+    "size": 795,
+    "date": 1659732781000,
     "name": "Amoledify"
   },
   {
@@ -59,13 +59,23 @@
     "name": "label secondary disabler"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/emoji_icon_remover.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 580,
+    "date": 1659732781000,
+    "name": "emoji icon remover"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_bold.zip",
     "author": "RKBDI",
     "tags": [
       "font"
     ],
-    "size": 466,
-    "date": 1659730810000,
+    "size": 464,
+    "date": 1659732781000,
     "name": "Font weight bold"
   },
   {
@@ -94,8 +104,8 @@
     "tags": [
       "font"
     ],
-    "size": 469,
-    "date": 1659730810000,
+    "size": 468,
+    "date": 1659732781000,
     "name": "Font weight medium"
   },
   {

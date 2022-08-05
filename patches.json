@@ -22,11 +22,31 @@
     "author": "RKBDI",
     "tags": [
       "color",
-      " amoled"
+      "amoled"
     ],
-    "size": 368,
-    "date": 1659602692000,
+    "size": 404,
+    "date": 1659728201000,
     "name": "Amoledify"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/body_top_rounded.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 469,
+    "date": 1659728201000,
+    "name": "Body top rounded corners"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_fix.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 404,
+    "date": 1659728201000,
+    "name": "Border fix"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_sec_label.zip",
@@ -34,8 +54,8 @@
     "tags": [
       "visual"
     ],
-    "size": 379,
-    "date": 1659724524000,
+    "size": 564,
+    "date": 1659728201000,
     "name": "label secondary disabler"
   },
   {
@@ -119,6 +139,26 @@
     "name": "Low pixel icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/lumiq_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 7956,
+    "date": 1659728201000,
+    "name": "lumiq icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/material_io_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 5598,
+    "date": 1659728201000,
+    "name": "material io icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
     "author": "RKBDI",
     "tags": [
@@ -134,8 +174,8 @@
     "tags": [
       "icons"
     ],
-    "size": 7984,
-    "date": 1659724524000,
+    "size": 4214,
+    "date": 1659728201000,
     "name": "swiftkey icons"
   },
   {
@@ -144,8 +184,8 @@
     "tags": [
       "visual"
     ],
-    "size": 401,
-    "date": 1659602692000,
+    "size": 469,
+    "date": 1659728201000,
     "name": "Top rounded corners"
   },
   {

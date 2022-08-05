@@ -24,8 +24,8 @@
       "color",
       "amoled"
     ],
-    "size": 404,
-    "date": 1659728201000,
+    "size": 491,
+    "date": 1659730810000,
     "name": "Amoledify"
   },
   {
@@ -59,6 +59,26 @@
     "name": "label secondary disabler"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_bold.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 466,
+    "date": 1659730810000,
+    "name": "Font weight bold"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual - Copy.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 465,
+    "date": 1659730810000,
+    "name": "Font casual"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [
@@ -67,6 +87,16 @@
     "size": 465,
     "date": 1659724524000,
     "name": "Font casual"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_medium.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 469,
+    "date": 1659730810000,
+    "name": "Font weight medium"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_monospace.zip",
@@ -167,6 +197,16 @@
     "size": 438,
     "date": 1659724524000,
     "name": "rounded keys"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/smaller_font.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 471,
+    "date": 1659730810000,
+    "name": "Smaller font"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/smartisan_icons.zip",

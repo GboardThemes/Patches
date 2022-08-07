@@ -18,6 +18,16 @@
     "name": "3D-ify"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
+    "author": "Fakefamss",
+    "tags": [
+      "icons"
+    ],
+    "size": 15691,
+    "date": 1659900111000,
+    "name": "Fakefamss icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoledify.zip",
     "author": "RKBDI",
     "tags": [
@@ -74,8 +84,8 @@
     "tags": [
       "font"
     ],
-    "size": 464,
-    "date": 1659732781000,
+    "size": 463,
+    "date": 1659900111000,
     "name": "Font weight bold"
   },
   {
@@ -94,8 +104,8 @@
     "tags": [
       "font"
     ],
-    "size": 468,
-    "date": 1659732781000,
+    "size": 467,
+    "date": 1659900111000,
     "name": "Font weight medium"
   },
   {
@@ -164,8 +174,8 @@
     "tags": [
       "icons"
     ],
-    "size": 3763,
-    "date": 1659602692000,
+    "size": 3810,
+    "date": 1659900111000,
     "name": "Low pixel icons"
   },
   {
@@ -175,7 +185,7 @@
       "icons"
     ],
     "size": 7956,
-    "date": 1659728201000,
+    "date": 1659900111000,
     "name": "lumiq icons"
   },
   {
@@ -204,8 +214,8 @@
     "tags": [
       "font"
     ],
-    "size": 471,
-    "date": 1659730810000,
+    "size": 396,
+    "date": 1659900111000,
     "name": "Smaller font"
   },
   {
@@ -214,8 +224,8 @@
     "tags": [
       "icons"
     ],
-    "size": 7572,
-    "date": 1659897750000,
+    "size": 7569,
+    "date": 1659900111000,
     "name": "Smartisan icons"
   },
   {
@@ -224,8 +234,8 @@
     "tags": [
       "icons"
     ],
-    "size": 4217,
-    "date": 1659729431000,
+    "size": 4226,
+    "date": 1659900111000,
     "name": "Surface duo icons"
   },
   {
@@ -234,8 +244,8 @@
     "tags": [
       "icons"
     ],
-    "size": 4214,
-    "date": 1659728201000,
+    "size": 4220,
+    "date": 1659900111000,
     "name": "swiftkey icons"
   },
   {
@@ -244,8 +254,8 @@
     "tags": [
       "visual"
     ],
-    "size": 469,
-    "date": 1659728201000,
+    "size": 483,
+    "date": 1659900111000,
     "name": "Top rounded corners"
   },
   {
@@ -267,5 +277,15 @@
     "size": 7982,
     "date": 1659724524000,
     "name": "xiaomi icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/xiaomi_layout.zip",
+    "author": "RKBDI",
+    "tags": [
+      "layout"
+    ],
+    "size": 420,
+    "date": 1659900111000,
+    "name": "xiaomi layout"
   }
 ]

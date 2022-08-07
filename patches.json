@@ -79,16 +79,6 @@
     "name": "emoji icon remover"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_bold.zip",
-    "author": "RKBDI",
-    "tags": [
-      "font"
-    ],
-    "size": 464,
-    "date": 1659902318000,
-    "name": "Font weight bold"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [
@@ -107,6 +97,16 @@
     "size": 468,
     "date": 1659724524000,
     "name": "Font monospace"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-medium.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 502,
+    "date": 1659903615000,
+    "name": "Font sans-serif-medium (stock medium font)"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
@@ -194,9 +194,9 @@
     "tags": [
       "fix"
     ],
-    "size": 522,
-    "date": 1659902318000,
-    "name": "Pill fix"
+    "size": 407,
+    "date": 1659903615000,
+    "name": "Pill popup fix"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
@@ -227,6 +227,16 @@
     "size": 7569,
     "date": 1659900111000,
     "name": "Smartisan icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/square_keys.zip",
+    "author": "RKBDI",
+    "tags": [
+      "border"
+    ],
+    "size": 432,
+    "date": 1659903615000,
+    "name": "square keys"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/surface_duo_icons.zip",

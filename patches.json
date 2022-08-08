@@ -89,6 +89,16 @@
     "name": "Font casual"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_cursive.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 466,
+    "date": 1659992732000,
+    "name": "Font cursive"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_monospace.zip",
     "author": "RKBDI",
     "tags": [
@@ -99,14 +109,64 @@
     "name": "Font monospace"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-black.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 474,
+    "date": 1659992732000,
+    "name": "Font stock bold"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-light.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 495,
+    "date": 1659992732000,
+    "name": "Font sans-serif-condensed-light"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-medium.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 497,
+    "date": 1659992732000,
+    "name": "Font sans-serif-condensed-light"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 486,
+    "date": 1659992732000,
+    "name": "Font sans-serif-condensed"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-light.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 475,
+    "date": 1659992732000,
+    "name": "Font stock light"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-medium.zip",
     "author": "RKBDI",
     "tags": [
       "font"
     ],
-    "size": 502,
-    "date": 1659903615000,
-    "name": "Font sans-serif-medium (stock medium font)"
+    "size": 477,
+    "date": 1659992732000,
+    "name": "Font stock medium"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
@@ -119,14 +179,24 @@
     "name": "Font sans-serif-smallcaps"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-thin.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 473,
+    "date": 1659992732000,
+    "name": "Font stock thin"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif.zip",
     "author": "RKBDI",
     "tags": [
       "font"
     ],
-    "size": 483,
-    "date": 1659724524000,
-    "name": "Font sans-serif (stock font)"
+    "size": 465,
+    "date": 1659992732000,
+    "name": "Font stock"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_serif-monospace.zip",
@@ -187,16 +257,6 @@
     "size": 5598,
     "date": 1659728201000,
     "name": "material io icons"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/pill_fix.zip",
-    "author": "RKBDI",
-    "tags": [
-      "fix"
-    ],
-    "size": 407,
-    "date": 1659903615000,
-    "name": "Pill popup fix"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",

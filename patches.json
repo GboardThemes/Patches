@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/1337.zip",
-    "author": "DerBot7214",
-    "tags": [],
-    "size": 301,
-    "date": 1659607010000,
-    "name": "Test Patch"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/3d-ify.zip",
     "author": "RKBDI",
     "tags": [
@@ -259,6 +251,26 @@
     "name": "material io icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 545,
+    "date": 1659995016000,
+    "name": "ninjaify (label disabler)"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/pill_popup_fix.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 383,
+    "date": 1659995016000,
+    "name": "Pill popup fix"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
     "author": "RKBDI",
     "tags": [
@@ -294,8 +306,8 @@
     "tags": [
       "border"
     ],
-    "size": 432,
-    "date": 1659903615000,
+    "size": 438,
+    "date": 1659995016000,
     "name": "square keys"
   },
   {

@@ -86,9 +86,10 @@
     "tags": [
       "font"
     ],
-    "size": 465,
-    "date": 1659724524000,
-    "name": "Font casual"
+    "size": 478,
+    "date": 1660063513000,
+    "name": "Font casual",
+    "font": "casual"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_cursive.zip",
@@ -96,9 +97,10 @@
     "tags": [
       "font"
     ],
-    "size": 466,
-    "date": 1659992732000,
-    "name": "Font cursive"
+    "size": 480,
+    "date": 1660063513000,
+    "name": "Font cursive",
+    "font": "cursive"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_monospace.zip",
@@ -106,9 +108,10 @@
     "tags": [
       "font"
     ],
-    "size": 468,
-    "date": 1659724524000,
-    "name": "Font monospace"
+    "size": 484,
+    "date": 1660063513000,
+    "name": "Font monospace",
+    "font": "monospace"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-black.zip",
@@ -116,9 +119,10 @@
     "tags": [
       "font"
     ],
-    "size": 474,
-    "date": 1659992732000,
-    "name": "Font stock bold"
+    "size": 497,
+    "date": 1660063513000,
+    "name": "Font stock bold",
+    "font": "sans-serif-black"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-light.zip",
@@ -126,9 +130,10 @@
     "tags": [
       "font"
     ],
-    "size": 495,
-    "date": 1659992732000,
-    "name": "Font sans-serif-condensed-light"
+    "size": 510,
+    "date": 1660063513000,
+    "name": "Font sans-serif-condensed-light",
+    "font": "sans-serif-condensed-light"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-medium.zip",
@@ -146,9 +151,10 @@
     "tags": [
       "font"
     ],
-    "size": 486,
-    "date": 1659992732000,
-    "name": "Font sans-serif-condensed"
+    "size": 503,
+    "date": 1660063513000,
+    "name": "Font sans-serif-condensed",
+    "font": "sans-serif-condensed"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-light.zip",
@@ -156,9 +162,10 @@
     "tags": [
       "font"
     ],
-    "size": 475,
-    "date": 1659992732000,
-    "name": "Font stock light"
+    "size": 498,
+    "date": 1660063513000,
+    "name": "Font stock light",
+    "font": "sans-serif-light"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-medium.zip",
@@ -166,9 +173,10 @@
     "tags": [
       "font"
     ],
-    "size": 477,
-    "date": 1659992732000,
-    "name": "Font stock medium"
+    "size": 501,
+    "date": 1660063513000,
+    "name": "Font stock medium",
+    "font": "sans-serif-medium"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
@@ -176,9 +184,10 @@
     "tags": [
       "font"
     ],
-    "size": 415,
-    "date": 1659602692000,
-    "name": "Font sans-serif-smallcaps"
+    "size": 468,
+    "date": 1660063513000,
+    "name": "Font sans-serif-smallcaps",
+    "font": "sans-serif-smallcaps"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-thin.zip",
@@ -186,9 +195,10 @@
     "tags": [
       "font"
     ],
-    "size": 473,
-    "date": 1659992732000,
-    "name": "Font stock thin"
+    "size": 495,
+    "date": 1660063513000,
+    "name": "Font stock thin",
+    "font": "sans-serif-thin"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif.zip",
@@ -196,9 +206,10 @@
     "tags": [
       "font"
     ],
-    "size": 465,
-    "date": 1659992732000,
-    "name": "Font stock"
+    "size": 482,
+    "date": 1660063513000,
+    "name": "Font stock",
+    "font": "sans-serif"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_serif-monospace.zip",
@@ -206,9 +217,10 @@
     "tags": [
       "font"
     ],
-    "size": 479,
-    "date": 1659724524000,
-    "name": "Font serif-monospace"
+    "size": 497,
+    "date": 1660063513000,
+    "name": "Font serif-monospace",
+    "font": "serif-monospace"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_source-sans-pro.zip",
@@ -216,9 +228,10 @@
     "tags": [
       "font"
     ],
-    "size": 480,
-    "date": 1659724524000,
-    "name": "Font source-sans-pro"
+    "size": 497,
+    "date": 1660063513000,
+    "name": "Font source-sans-pro",
+    "font": "source-sans-pro"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ios_icons.zip",

@@ -61,6 +61,16 @@
     "name": "label secondary disabler"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_spacebar_text.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 571,
+    "date": 1660047050000,
+    "name": "Spacebar label disabler"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/emoji_icon_remover.zip",
     "author": "RKBDI",
     "tags": [
@@ -69,16 +79,6 @@
     "size": 580,
     "date": 1659732781000,
     "name": "emoji icon remover"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_baloo.zip",
-    "author": "RKBDI",
-    "tags": [
-      "font"
-    ],
-    "size": 462,
-    "date": 1660038361000,
-    "name": "Font baloo"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
@@ -297,8 +297,8 @@
     "tags": [
       "border"
     ],
-    "size": 438,
-    "date": 1659724524000,
+    "size": 449,
+    "date": 1660047050000,
     "name": "rounded keys"
   },
   {
@@ -327,8 +327,8 @@
     "tags": [
       "border"
     ],
-    "size": 438,
-    "date": 1659995016000,
+    "size": 443,
+    "date": 1660047050000,
     "name": "square keys"
   },
   {

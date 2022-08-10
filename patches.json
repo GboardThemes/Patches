@@ -51,6 +51,16 @@
     "name": "Border fix"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/candidate_separator_disabler.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 403,
+    "date": 1660146239000,
+    "name": "candidate separator disabler"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_sec_label.zip",
     "author": "RKBDI",
     "tags": [
@@ -362,6 +372,16 @@
     "size": 483,
     "date": 1659900111000,
     "name": "Top rounded corners"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unify_body_with_header_border.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 418,
+    "date": 1660146239000,
+    "name": "Header in body color"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/veu_icons.zip",

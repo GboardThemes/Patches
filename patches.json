@@ -419,8 +419,8 @@
     "tags": [
       "icons"
     ],
-    "size": 17149,
-    "date": 1660227838000,
+    "size": 17282,
+    "date": 1660230129000,
     "name": "Samsung Keyboard icons"
   },
   {
@@ -482,6 +482,16 @@
     "size": 527,
     "date": 1660228973000,
     "name": "Top rounded corners"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/twotoneicons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 13574,
+    "date": 1660230129000,
+    "name": "Material Symbol two-tone icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unify_body_with_header_border.zip",

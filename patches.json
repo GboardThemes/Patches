@@ -374,6 +374,16 @@
     "name": "ninjaify (label disabler)"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/old_swiftkey_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 12619,
+    "date": 1660227838000,
+    "name": "Old Swiftkey icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/pill_popup_fix.zip",
     "author": "RKBDI",
     "tags": [
@@ -402,6 +412,16 @@
     "size": 449,
     "date": 1660047050000,
     "name": "rounded keys"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/samsung_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 17149,
+    "date": 1660227838000,
+    "name": "Samsung Keyboard icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/smaller_font.zip",
@@ -539,8 +559,8 @@
     "tags": [
       "icons"
     ],
-    "size": 12904,
-    "date": 1660218067000,
+    "size": 13068,
+    "date": 1660227838000,
     "name": "Yandex icons"
   }
 ]

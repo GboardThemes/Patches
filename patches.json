@@ -284,6 +284,16 @@
     "name": "material io icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_regular.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 14791,
+    "date": 1660218067000,
+    "name": "Material Symbols regular"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",
     "author": "RKBDI",
     "tags": [
@@ -302,6 +312,16 @@
     "size": 383,
     "date": 1659995016000,
     "name": "Pill popup fix"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/plumpy.zip",
+    "author": "icon8",
+    "tags": [
+      "icons"
+    ],
+    "size": 18538,
+    "date": 1660218067000,
+    "name": "plumpy icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
@@ -442,5 +462,15 @@
     "size": 412,
     "date": 1659902318000,
     "name": "xperia layout"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/yandex.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 12904,
+    "date": 1660218067000,
+    "name": "Yandex icons"
   }
 ]

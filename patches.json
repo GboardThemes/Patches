@@ -284,6 +284,56 @@
     "name": "material io icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_bold.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 16171,
+    "date": 1660218821000,
+    "name": "Material Symbols bold icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_bold_round.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 18321,
+    "date": 1660218821000,
+    "name": "Material Symbols bold rounded icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_filled.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 13590,
+    "date": 1660218821000,
+    "name": "Material Symbols filled icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 15444,
+    "date": 1660218821000,
+    "name": "Material Symbols icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_light.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 13791,
+    "date": 1660218821000,
+    "name": "Material Symbols light icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_regular.zip",
     "author": "RKBDI",
     "tags": [
@@ -292,6 +342,26 @@
     "size": 14791,
     "date": 1660218067000,
     "name": "Material Symbols regular"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_round.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 16287,
+    "date": 1660218821000,
+    "name": "Material Symbols round icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_thin.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 14067,
+    "date": 1660218821000,
+    "name": "Material Symbols thin icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",

@@ -91,6 +91,16 @@
     "name": "emoji icon remover"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fluent.zip",
+    "author": "iconify",
+    "tags": [
+      "icons"
+    ],
+    "size": 12116,
+    "date": 1660471165000,
+    "name": "Fluent icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [

@@ -414,14 +414,34 @@
     "name": "plumpy icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/rounded_keys.zip",
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundbody.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 797,
+    "date": 1660497429000,
+    "name": "Round body"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundedkeys.zip",
     "author": "RKBDI",
     "tags": [
       "border"
     ],
-    "size": 449,
-    "date": 1660047050000,
+    "size": 410,
+    "date": 1660497429000,
     "name": "rounded keys"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundeys.zip",
+    "author": "RKBDI",
+    "tags": [
+      "border"
+    ],
+    "size": 483,
+    "date": 1660497429000,
+    "name": "round keys"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/samsung_icons.zip",

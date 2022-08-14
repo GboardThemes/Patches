@@ -91,6 +91,16 @@
     "name": "emoji icon remover"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fleksy.zip",
+    "author": "fleksy",
+    "tags": [
+      "icons"
+    ],
+    "size": 12193,
+    "date": 1660506767000,
+    "name": "fleksy icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fluent.zip",
     "author": "iconify",
     "tags": [
@@ -254,6 +264,16 @@
     "font": "source-sans-pro"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",
+    "author": "iconify",
+    "tags": [
+      "icons"
+    ],
+    "size": 13459,
+    "date": 1660506767000,
+    "name": "Bootstrap icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ios_icons.zip",
     "author": "RKBDI",
     "tags": [
@@ -414,16 +434,6 @@
     "name": "plumpy icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundbody.zip",
-    "author": "RKBDI",
-    "tags": [
-      "visual"
-    ],
-    "size": 797,
-    "date": 1660497429000,
-    "name": "Round body"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundedkeys.zip",
     "author": "RKBDI",
     "tags": [
@@ -522,6 +532,16 @@
     "size": 14448,
     "date": 1660470583000,
     "name": "Material Symbol two-tone icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unicons.zip",
+    "author": "Iconscout",
+    "tags": [
+      "icons"
+    ],
+    "size": 11484,
+    "date": 1660506767000,
+    "name": "Unicons icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unify_body_with_header_border.zip",

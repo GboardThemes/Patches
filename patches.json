@@ -20,6 +20,16 @@
     "name": "Fakefamss icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amogus.zip",
+    "author": "RKBDI",
+    "tags": [
+      "branding"
+    ],
+    "size": 2378,
+    "date": 1660579460000,
+    "name": "Amongus branding logo"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoledify.zip",
     "author": "RKBDI",
     "tags": [
@@ -49,6 +59,16 @@
     "size": 404,
     "date": 1659728201000,
     "name": "Border fix"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/branding.zip",
+    "author": "RKBDI",
+    "tags": [
+      "branding"
+    ],
+    "size": 1765,
+    "date": 1660579460000,
+    "name": "Rboard branding logo"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/candidate_separator_disabler.zip",

@@ -414,6 +414,16 @@
     "name": "Material Symbols thin icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_fix.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 679,
+    "date": 1660596012000,
+    "name": "New access point items fix"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",
     "author": "RKBDI",
     "tags": [

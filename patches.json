@@ -494,16 +494,6 @@
     "name": "square keys"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/surface_duo_icons.zip",
-    "author": "RKBDI",
-    "tags": [
-      "icons"
-    ],
-    "size": 4226,
-    "date": 1659900111000,
-    "name": "Surface duo icons"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/swiftkey_icons.zip",
     "author": "RKBDI",
     "tags": [
@@ -522,6 +512,16 @@
     "size": 527,
     "date": 1660228973000,
     "name": "Top rounded corners"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/topshadow.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 569,
+    "date": 1660572392000,
+    "name": "Top shadow disabler"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/twotoneicons.zip",

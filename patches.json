@@ -426,6 +426,16 @@
     "name": "Material Symbols thin icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/move_sec_label.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 640,
+    "date": 1660598342000,
+    "name": "label secondary disabler"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_fix.zip",
     "author": "RKBDI",
     "tags": [

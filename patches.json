@@ -23,10 +23,11 @@
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amogus.zip",
     "author": "RKBDI",
     "tags": [
-      "branding"
+      "branding",
+      "icons"
     ],
-    "size": 2378,
-    "date": 1660579460000,
+    "size": 2384,
+    "date": 1660597828000,
     "name": "Amongus branding logo"
   },
   {
@@ -61,13 +62,24 @@
     "name": "Border fix"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/borderless_pill_fix.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 486,
+    "date": 1660597828000,
+    "name": "Borderless pill keys fix"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/branding.zip",
     "author": "RKBDI",
     "tags": [
-      "branding"
+      "branding",
+      "icons"
     ],
-    "size": 1765,
-    "date": 1660579460000,
+    "size": 1771,
+    "date": 1660597828000,
     "name": "Rboard branding logo"
   },
   {

@@ -10,6 +10,28 @@
     "name": "3D-ify"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleBlack.zip",
+    "author": "@modulostk",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 4480,
+    "date": 1660620799000,
+    "name": "AppleBlack"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleWhite.zip",
+    "author": "@modulostk",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 4709,
+    "date": 1660620748000,
+    "name": "AppleWhite"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
     "author": "Fakefamss",
     "tags": [

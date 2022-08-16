@@ -53,6 +53,17 @@
     "name": "Magisk Black"
   },
   {
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/MagiskWhite.zip",
+    "author": "@modulostk",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 9094,
+    "date": 1660633605000,
+    "name": "Magisk White"
+  },
+  {
     "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/amogus.zip",
     "author": "RKBDI",
     "tags": [

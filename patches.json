@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/3d-ify.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/3d-ify.zip",
     "author": "RKBDI",
     "tags": [
       "border"
@@ -10,7 +10,29 @@
     "name": "3D-ify"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/AppleBlack.zip",
+    "author": "@modulostk",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 4480,
+    "date": 1660620799000,
+    "name": "AppleBlack"
+  },
+  {
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/AppleWhite.zip",
+    "author": "@modulostk",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 4709,
+    "date": 1660620748000,
+    "name": "AppleWhite"
+  },
+  {
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/Fakefamss_icons.zip",
     "author": "Fakefamss",
     "tags": [
       "icons"
@@ -20,7 +42,7 @@
     "name": "Fakefamss icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amogus.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/amogus.zip",
     "author": "RKBDI",
     "tags": [
       "branding",
@@ -31,7 +53,7 @@
     "name": "Amongus branding logo"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoledify.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/amoledify.zip",
     "author": "RKBDI",
     "tags": [
       "color",
@@ -42,7 +64,7 @@
     "name": "Amoledify"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/body_top_rounded.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/body_top_rounded.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -52,7 +74,7 @@
     "name": "Body top rounded corners"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_fix.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/border_fix.zip",
     "author": "RKBDI",
     "tags": [
       "fix"
@@ -62,7 +84,7 @@
     "name": "Border fix"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/borderless_pill_fix.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/borderless_pill_fix.zip",
     "author": "RKBDI",
     "tags": [
       "fix"
@@ -72,7 +94,7 @@
     "name": "Borderless pill keys fix"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/branding.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/branding.zip",
     "author": "RKBDI",
     "tags": [
       "branding",
@@ -83,7 +105,7 @@
     "name": "Rboard branding logo"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/candidate_separator_disabler.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/candidate_separator_disabler.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -93,7 +115,7 @@
     "name": "candidate separator disabler"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_sec_label.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/disable_sec_label.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -103,7 +125,7 @@
     "name": "label secondary disabler"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_spacebar_text.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/disable_spacebar_text.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -113,7 +135,17 @@
     "name": "Spacebar label disabler"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/emoji_icon_remover.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/dot_lines_icons_black.zip",
+    "author": "@modulostk",
+    "tags": [
+      "icons"
+    ],
+    "size": 57165,
+    "date": 1660630545000,
+    "name": "Dot Lines Icons Black"
+  },
+  {
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/emoji_icon_remover.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -123,7 +155,7 @@
     "name": "emoji icon remover"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fleksy.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/fleksy.zip",
     "author": "fleksy",
     "tags": [
       "icons"
@@ -133,7 +165,7 @@
     "name": "fleksy icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fluent.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/fluent.zip",
     "author": "iconify",
     "tags": [
       "icons"
@@ -143,7 +175,7 @@
     "name": "Fluent icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -154,7 +186,7 @@
     "font": "casual"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_cursive.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_cursive.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -165,7 +197,7 @@
     "font": "cursive"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_monospace.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_monospace.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -176,7 +208,7 @@
     "font": "monospace"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-black.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-black.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -187,7 +219,7 @@
     "font": "sans-serif-black"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-light.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-condensed-light.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -198,7 +230,7 @@
     "font": "sans-serif-condensed-light"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed-medium.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-condensed-medium.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -208,7 +240,7 @@
     "name": "Font sans-serif-condensed-medium"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-condensed.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -219,7 +251,7 @@
     "font": "sans-serif-condensed"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-light.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-light.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -230,7 +262,7 @@
     "font": "sans-serif-light"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-medium.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-medium.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -241,7 +273,7 @@
     "font": "sans-serif-medium"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-smallcaps.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -252,7 +284,7 @@
     "font": "sans-serif-smallcaps"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-thin.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif-thin.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -263,7 +295,7 @@
     "font": "sans-serif-thin"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_sans-serif.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -274,7 +306,7 @@
     "font": "sans-serif"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_serif-monospace.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_serif-monospace.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -285,7 +317,7 @@
     "font": "serif-monospace"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_source-sans-pro.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/font_source-sans-pro.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -296,7 +328,7 @@
     "font": "source-sans-pro"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/iconifybsicons.zip",
     "author": "iconify",
     "tags": [
       "icons"
@@ -306,7 +338,7 @@
     "name": "Bootstrap icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ios_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/ios_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -316,7 +348,7 @@
     "name": "iOS icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/low_pixel_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/low_pixel_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -326,7 +358,7 @@
     "name": "Low pixel icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/lumiq_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/lumiq_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -336,7 +368,7 @@
     "name": "lumiq icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/material_io_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/material_io_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -346,7 +378,7 @@
     "name": "material io icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_bold.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_bold.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -356,7 +388,7 @@
     "name": "Material Symbols bold icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_bold_round.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_bold_round.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -366,7 +398,7 @@
     "name": "Material Symbols bold rounded icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_filled.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_filled.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -376,7 +408,7 @@
     "name": "Material Symbols filled icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -386,7 +418,7 @@
     "name": "Material Symbols icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_light.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_light.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -396,7 +428,7 @@
     "name": "Material Symbols light icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_regular.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_regular.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -406,7 +438,7 @@
     "name": "Material Symbols regular"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_round.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_round.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -416,7 +448,7 @@
     "name": "Material Symbols round icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/mds_thin.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/mds_thin.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -426,7 +458,7 @@
     "name": "Material Symbols thin icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_fix.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/new_access_point_items_fix.zip",
     "author": "RKBDI",
     "tags": [
       "fix"
@@ -436,7 +468,7 @@
     "name": "New access point items fix"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/ninjaify.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -446,7 +478,7 @@
     "name": "ninjaify (label disabler)"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/old_swiftkey_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/old_swiftkey_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -456,7 +488,7 @@
     "name": "Old Swiftkey icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/pill_popup_fix.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/pill_popup_fix.zip",
     "author": "RKBDI",
     "tags": [
       "fix"
@@ -466,7 +498,7 @@
     "name": "Pill popup fix"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/plumpy.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/plumpy.zip",
     "author": "icon8",
     "tags": [
       "icons"
@@ -476,7 +508,7 @@
     "name": "plumpy icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundedkeys.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/roundedkeys.zip",
     "author": "RKBDI",
     "tags": [
       "border"
@@ -486,7 +518,7 @@
     "name": "rounded keys"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/roundeys.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/roundeys.zip",
     "author": "RKBDI",
     "tags": [
       "border"
@@ -496,7 +528,7 @@
     "name": "round keys"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/samsung_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/samsung_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -506,7 +538,7 @@
     "name": "Samsung Keyboard icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/smaller_font.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/smaller_font.zip",
     "author": "RKBDI",
     "tags": [
       "font"
@@ -516,7 +548,7 @@
     "name": "Smaller font"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/smartisan_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/smartisan_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -526,7 +558,7 @@
     "name": "Smartisan icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/square_keys.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/square_keys.zip",
     "author": "RKBDI",
     "tags": [
       "border"
@@ -536,7 +568,7 @@
     "name": "square keys"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/swiftkey_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/swiftkey_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -546,7 +578,7 @@
     "name": "swiftkey icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/top_rounded.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/top_rounded.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -556,7 +588,7 @@
     "name": "Top rounded corners"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/topshadow.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/topshadow.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -566,7 +598,7 @@
     "name": "Top shadow disabler"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/twotoneicons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/twotoneicons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -576,7 +608,7 @@
     "name": "Material Symbol two-tone icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unicons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/unicons.zip",
     "author": "Iconscout",
     "tags": [
       "icons"
@@ -586,7 +618,7 @@
     "name": "Unicons icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/unify_body_with_header_border.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/unify_body_with_header_border.zip",
     "author": "RKBDI",
     "tags": [
       "visual"
@@ -596,7 +628,7 @@
     "name": "Header in body color"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/veu_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/veu_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -606,7 +638,7 @@
     "name": "veu icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/veu_outline_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/veu_outline_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -616,7 +648,7 @@
     "name": "veu outline icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/xiaomi_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/xiaomi_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -626,7 +658,7 @@
     "name": "xiaomi icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/xiaomi_layout.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/xiaomi_layout.zip",
     "author": "RKBDI",
     "tags": [
       "layout"
@@ -636,7 +668,7 @@
     "name": "xiaomi layout"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/xperia_icons.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/xperia_icons.zip",
     "author": "RKBDI",
     "tags": [
       "icons"
@@ -646,7 +678,7 @@
     "name": "xperia icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/xperia_layout.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/xperia_layout.zip",
     "author": "RKBDI",
     "tags": [
       "layout"
@@ -656,7 +688,7 @@
     "name": "xperia layout"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/yandex.zip",
+    "url": "https://github.com/LeanxModulostk/Patches/raw/master/patches/yandex.zip",
     "author": "RKBDI",
     "tags": [
       "icons"

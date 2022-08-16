@@ -1,0 +1,22 @@
+name: Pull Request
+
+on:
+  pull_request:
+    branches: [master]
+    paths:
+      - "patches/**"
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        name: Add label
+        with:
+          script: |
+            await github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['patch']
+            })

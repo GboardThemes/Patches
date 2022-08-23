@@ -16,9 +16,9 @@
       "branding",
       "icons"
     ],
-    "size": 4480,
-    "date": 1660620799000,
-    "name": "AppleBlack"
+    "size": 4525,
+    "date": 1661264301000,
+    "name": "AppleBlack Branding"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleWhite.zip",
@@ -27,9 +27,9 @@
       "branding",
       "icons"
     ],
-    "size": 4709,
-    "date": 1660620748000,
-    "name": "AppleWhite"
+    "size": 4754,
+    "date": 1661264301000,
+    "name": "AppleWhite Branding"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
@@ -318,6 +318,16 @@
     "font": "source-sans-pro"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/glyph.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 11521,
+    "date": 1661264301000,
+    "name": "Glyph icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",
     "author": "iconify",
     "tags": [
@@ -336,6 +346,16 @@
     "size": 7879,
     "date": 1659724524000,
     "name": "iOS icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/low_pixel_2_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 4764,
+    "date": 1661264301000,
+    "name": "Low pixel 2"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/low_pixel_icons.zip",
@@ -446,6 +466,16 @@
     "size": 14067,
     "date": 1660218821000,
     "name": "Material Symbols thin icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ndoticons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 10491,
+    "date": 1661264301000,
+    "name": "Nothing Dots icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_fix.zip",

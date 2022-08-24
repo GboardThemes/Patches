@@ -165,6 +165,17 @@
     "name": "Fluent icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-Medium.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 508,
+    "date": 1661350615000,
+    "name": "Font GoogleSans-Medium",
+    "font": "GoogleSans-Medium"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [

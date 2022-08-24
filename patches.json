@@ -666,6 +666,28 @@
     "name": "Smartisan icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/spaceb.zip",
+    "author": "RKBDI",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 2225,
+    "date": 1661365340000,
+    "name": "Space Black Branding"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/spacew.zip",
+    "author": "RKBDI",
+    "tags": [
+      "branding",
+      "icons"
+    ],
+    "size": 2311,
+    "date": 1661365340000,
+    "name": "Space White Branding"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/square_keys.zip",
     "author": "RKBDI",
     "tags": [

@@ -145,6 +145,16 @@
     "name": "Spacebar label disabler"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/doticons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 10519,
+    "date": 1661368287000,
+    "name": "Dot icons"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/emoji_icon_remover.zip",
     "author": "RKBDI",
     "tags": [
@@ -426,6 +436,16 @@
     "name": "Bootstrap icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ios_alt_icons.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 16376,
+    "date": 1661368287000,
+    "name": "iOS icons ALT"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ios_icons.zip",
     "author": "RKBDI",
     "tags": [
@@ -561,8 +581,8 @@
     "tags": [
       "icons"
     ],
-    "size": 10491,
-    "date": 1661264301000,
+    "size": 10724,
+    "date": 1661368287000,
     "name": "Nothing Dots icons"
   },
   {
@@ -594,6 +614,16 @@
     "size": 12661,
     "date": 1660228973000,
     "name": "Old Swiftkey icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/overfilled.zip",
+    "author": "rkbdi",
+    "tags": [
+      "icons"
+    ],
+    "size": 13054,
+    "date": 1661368287000,
+    "name": "Material Symbol overfilled rounded icons"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/pill_popup_fix.zip",

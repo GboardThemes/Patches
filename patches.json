@@ -77,11 +77,11 @@
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_dark_keys_enter.zip",
     "author": "RKBDI",
     "tags": [
-      "fix"
+      "visual"
     ],
-    "size": 440,
-    "date": 1661362976000,
-    "name": "Border dark in enter color "
+    "size": 424,
+    "date": 1661363371000,
+    "name": "Border dark transparent keys"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_fix.zip",

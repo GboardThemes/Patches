@@ -242,17 +242,6 @@
     "font": "google-sans"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_arbatus-slab.zip",
-    "author": "RKBDI",
-    "tags": [
-      "font"
-    ],
-    "size": 491,
-    "date": 1661351825000,
-    "name": "Font arbatus-slab",
-    "font": "arbatus-slab"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",
     "author": "RKBDI",
     "tags": [
@@ -313,9 +302,10 @@
     "tags": [
       "font"
     ],
-    "size": 498,
-    "date": 1660038361000,
-    "name": "Font sans-serif-condensed-medium"
+    "size": 511,
+    "date": 1661352420000,
+    "name": "Font sans-serif-condensed-medium",
+    "font": "sans-serif-condensed-medium"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_sans-serif-condensed.zip",
@@ -414,6 +404,16 @@
     "size": 11521,
     "date": 1661264301000,
     "name": "Glyph icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/google_icon.zip",
+    "author": "RKBDI",
+    "tags": [
+      "icons"
+    ],
+    "size": 3212,
+    "date": 1661354714000,
+    "name": "Google logo for access point"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",

@@ -170,10 +170,87 @@
     "tags": [
       "font"
     ],
+    "size": 506,
+    "date": 1661351825000,
+    "name": "Font Google Sans medium",
+    "font": "google-sans-medium"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-bold.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 500,
+    "date": 1661351825000,
+    "name": "Font Google Sans bold",
+    "font": "google-sans-bold"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-text-bold.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 511,
+    "date": 1661351825000,
+    "name": "Font Google Sans Text bold",
+    "font": "google-sans-text-bold"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-text-italic.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 512,
+    "date": 1661351825000,
+    "name": "Font Google Sans Text italic",
+    "font": "google-sans-text-italic"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-text-medium.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 514,
+    "date": 1661351825000,
+    "name": "Font Google Sans Text medium",
+    "font": "google-sans-text-medium"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans-text.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 501,
+    "date": 1661351825000,
+    "name": "Font Google Sans Text",
+    "font": "google-sans-text"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_GoogleSans.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
     "size": 490,
-    "date": 1661350967000,
+    "date": 1661351825000,
     "name": "Font Google Sans",
     "font": "google-sans"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_arbatus-slab.zip",
+    "author": "RKBDI",
+    "tags": [
+      "font"
+    ],
+    "size": 491,
+    "date": 1661351825000,
+    "name": "Font arbatus-slab",
+    "font": "arbatus-slab"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/font_casual.zip",

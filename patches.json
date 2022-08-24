@@ -74,6 +74,16 @@
     "name": "Body top rounded corners"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_dark_keys_enter.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 440,
+    "date": 1661362976000,
+    "name": "Border dark in enter color "
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_fix.zip",
     "author": "RKBDI",
     "tags": [
@@ -404,16 +414,6 @@
     "size": 11521,
     "date": 1661264301000,
     "name": "Glyph icons"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/google_icon.zip",
-    "author": "RKBDI",
-    "tags": [
-      "icons"
-    ],
-    "size": 3362,
-    "date": 1661360518000,
-    "name": "Google logo for access point"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",

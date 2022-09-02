@@ -104,6 +104,16 @@
     "name": "Border fix"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_outline.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 392,
+    "date": 1662121571000,
+    "name": "Border outline"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/borderless_pill_fix.zip",
     "author": "RKBDI",
     "tags": [

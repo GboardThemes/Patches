@@ -10,16 +10,6 @@
     "name": "3D-ify"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/3d-test.zip",
-    "author": "RKBDI",
-    "tags": [
-      "border"
-    ],
-    "size": 397,
-    "date": 1662076479000,
-    "name": "3D-ify Test"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleBlack.zip",
     "author": "@modulostk",
     "tags": [
@@ -50,6 +40,16 @@
     "size": 15691,
     "date": 1659900111000,
     "name": "Fakefamss icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Key_shadows.zip",
+    "author": "RKBDI",
+    "tags": [
+      "border"
+    ],
+    "size": 415,
+    "date": 1662808910000,
+    "name": "Key shadows"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amogus.zip",
@@ -624,6 +624,26 @@
     "size": 679,
     "date": 1660596012000,
     "name": "New access point items fix"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_round.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 655,
+    "date": 1662808910000,
+    "name": "New access point items round bg"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_transparent_bg.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 453,
+    "date": 1662808910000,
+    "name": "New access points items transparent bg"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/ninjaify.zip",

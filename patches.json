@@ -42,17 +42,6 @@
     "name": "Fakefamss icons"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Key_dark_action.zip",
-    "author": "RKBDI",
-    "tags": [
-      "border",
-      "visual"
-    ],
-    "size": 450,
-    "date": 1662811545000,
-    "name": "Dark keys in color of action keys"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Key_shadows.zip",
     "author": "RKBDI",
     "tags": [
@@ -650,10 +639,10 @@
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_transparent_bg.zip",
     "author": "RKBDI",
     "tags": [
-      "fix"
+      "visual"
     ],
-    "size": 453,
-    "date": 1662808910000,
+    "size": 436,
+    "date": 1662811823000,
     "name": "New access points items transparent bg"
   },
   {

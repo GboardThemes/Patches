@@ -446,6 +446,17 @@
     "name": "Glyph icons"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/googleshadow.zip",
+    "author": "HrX03",
+    "tags": [
+      "visual"
+    ],
+    "size": 17902,
+    "date": 1664137344000,
+    "name": "Google Assistant shadow",
+    "description": "fancy"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/iconifybsicons.zip",
     "author": "iconify",
     "tags": [

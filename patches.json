@@ -63,6 +63,17 @@
     "name": "Amongus branding logo"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoled_header.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual",
+      "amoled"
+    ],
+    "size": 735,
+    "date": 1669068538000,
+    "name": "Header in amoled"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoledify.zip",
     "author": "RKBDI",
     "tags": [
@@ -89,8 +100,8 @@
     "tags": [
       "visual"
     ],
-    "size": 424,
-    "date": 1661363371000,
+    "size": 439,
+    "date": 1669068538000,
     "name": "Border dark transparent keys"
   },
   {
@@ -132,6 +143,16 @@
     "size": 486,
     "date": 1660597828000,
     "name": "Borderless pill keys fix"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/borderless_spacebar_transparent.zip",
+    "author": "RKBDI",
+    "tags": [
+      "fix"
+    ],
+    "size": 390,
+    "date": 1669068538000,
+    "name": "Transparent spacebar for borderless"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/branding.zip",
@@ -193,6 +214,16 @@
     "size": 580,
     "date": 1659732781000,
     "name": "emoji icon remover"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/enter_to_border_dark.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 439,
+    "date": 1669068538000,
+    "name": "Border enter to dark keys"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/fleksy.zip",
@@ -655,6 +686,16 @@
     "size": 681,
     "date": 1662809259000,
     "name": "New access point items round bg"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_shadow.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 425,
+    "date": 1669068538000,
+    "name": "New access point items shadow"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_transparent_bg.zip",

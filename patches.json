@@ -150,8 +150,8 @@
     "tags": [
       "fix"
     ],
-    "size": 391,
-    "date": 1669068993000,
+    "size": 423,
+    "date": 1669070503000,
     "name": "Transparent spacebar for borderless"
   },
   {
@@ -666,6 +666,16 @@
     "size": 10724,
     "date": 1661368287000,
     "name": "Nothing Dots icons"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_icon_bg_remover.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 423,
+    "date": 1669070503000,
+    "name": "New access point icon bg remover"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/new_access_point_items_fix.zip",

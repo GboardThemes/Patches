@@ -176,6 +176,19 @@
     "name": "candidate separator disabler"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customimagebg.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 130517,
+    "date": 1671899143000,
+    "name": "Custom Background image",
+    "customName": "background.png",
+    "description": "Custom image"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/disable_sec_label.zip",
     "author": "RKBDI",
     "tags": [

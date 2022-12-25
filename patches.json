@@ -45,6 +45,19 @@
     "description": "Custom image"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Customborderroundness.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "value"
+    ],
+    "size": 469,
+    "date": 1671990101000,
+    "name": "Custom border roundness",
+    "customName": "roundedcornerspatch",
+    "description": "Value for border corners roundess. Default 4.5 min 0 max 30"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
     "author": "Fakefamss",
     "tags": [

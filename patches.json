@@ -32,6 +32,19 @@
     "name": "AppleWhite Branding"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Custom_delete.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 2126,
+    "date": 1671929696000,
+    "name": "Custom delete icon",
+    "customName": "icon_del.png",
+    "description": "Custom image"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Fakefamss_icons.zip",
     "author": "Fakefamss",
     "tags": [
@@ -189,16 +202,172 @@
     "description": "Custom image"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customicondone.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1261,
+    "date": 1671929696000,
+    "name": "Custom done icon",
+    "customName": "icon_done.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconemoji.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 3387,
+    "date": 1671929696000,
+    "name": "Custom emoji icon",
+    "customName": "icon_emoji.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconenter.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1196,
+    "date": 1671929696000,
+    "name": "Custom enter icon",
+    "customName": "icon_enter.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customicongo.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1240,
+    "date": 1671929696000,
+    "name": "Custom Go icon",
+    "customName": "icon_go.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconnext.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1125,
+    "date": 1671929696000,
+    "name": "Custom Next icon",
+    "customName": "icon_next.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconprev.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1136,
+    "date": 1671929696000,
+    "name": "Custom previous icon",
+    "customName": "icon_previous.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconsend.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1878,
+    "date": 1671929696000,
+    "name": "Custom send icon",
+    "customName": "icon_send.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconshiftlocked.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1529,
+    "date": 1671929696000,
+    "name": "Custom shift locked icon",
+    "customName": "icon_shift_locked.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconshiftoff.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1088,
+    "date": 1671929696000,
+    "name": "Custom shift off icon",
+    "customName": "icon_shift_off.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconshifton.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 1116,
+    "date": 1671929696000,
+    "name": "Custom shift on icon",
+    "customName": "icon_shift_on.png",
+    "description": "Custom image"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customimagebg.zip",
     "author": "RKBDI",
     "tags": [
       "custom",
       "image"
     ],
-    "size": 130517,
-    "date": 1671899143000,
+    "size": 130580,
+    "date": 1671925464000,
     "name": "Custom Background image",
     "customName": "background.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customsearchicon.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 2605,
+    "date": 1671929696000,
+    "name": "Custom search icon",
+    "customName": "icon_search.png",
+    "description": "Custom image"
+  },
+  {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customshadow.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 23621,
+    "date": 1671929696000,
+    "name": "Custom top shadow image",
+    "customName": "google.png",
     "description": "Custom image"
   },
   {

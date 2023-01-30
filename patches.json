@@ -215,6 +215,19 @@
     "description": "Custom image"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconaccess.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "image"
+    ],
+    "size": 2661,
+    "date": 1675121510000,
+    "name": "Custom Go icon",
+    "customName": "icon_go.png",
+    "description": "Custom image"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customicondone.zip",
     "author": "RKBDI",
     "tags": [

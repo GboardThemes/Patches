@@ -158,8 +158,8 @@
       "value",
       "visual"
     ],
-    "size": 575,
-    "date": 1685466451000,
+    "size": 583,
+    "date": 1685469113000,
     "name": "Custom border key transparency",
     "customName": "borderkeytransparency",
     "description": "Value for border transparency. Default 1.0 min 0.0 max 1.0"

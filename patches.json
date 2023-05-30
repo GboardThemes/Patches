@@ -151,6 +151,16 @@
     "name": "Border fix"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_half_transparency.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 377,
+    "date": 1685462677000,
+    "name": "Border transparency"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_outline.zip",
     "author": "RKBDI",
     "tags": [

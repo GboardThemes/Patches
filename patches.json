@@ -154,11 +154,15 @@
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_half_transparency.zip",
     "author": "RKBDI",
     "tags": [
+      "custom",
+      "value",
       "visual"
     ],
-    "size": 492,
-    "date": 1685465962000,
-    "name": "Border key half transparency"
+    "size": 575,
+    "date": 1685466451000,
+    "name": "Custom border key transparency",
+    "customName": "borderkeytransparency",
+    "description": "Value for border transparency. Default 1.0 min 0.0 max 1.0"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_outline.zip",

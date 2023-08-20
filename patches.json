@@ -175,6 +175,16 @@
     "name": "Border outline"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/border_shadow_disable.zip",
+    "author": "RKBDI",
+    "tags": [
+      "visual"
+    ],
+    "size": 428,
+    "date": 1692570769000,
+    "name": "Border shadow disabler"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/borderless_pill_fix.zip",
     "author": "RKBDI",
     "tags": [

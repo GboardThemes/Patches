@@ -10,28 +10,6 @@
     "name": "3D-ify"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleBlack.zip",
-    "author": "@modulostk",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 4525,
-    "date": 1661264301000,
-    "name": "AppleBlack Branding"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/AppleWhite.zip",
-    "author": "@modulostk",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 4754,
-    "date": 1661264301000,
-    "name": "AppleWhite Branding"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Custom_delete.zip",
     "author": "RKBDI",
     "tags": [
@@ -76,17 +54,6 @@
     "size": 439,
     "date": 1662809910000,
     "name": "Key shadows"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amogus.zip",
-    "author": "RKBDI",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 2384,
-    "date": 1660597828000,
-    "name": "Amongus branding logo"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/amoled_header.zip",
@@ -205,17 +172,6 @@
     "name": "Transparent spacebar for borderless"
   },
   {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/branding.zip",
-    "author": "RKBDI",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 1771,
-    "date": 1660597828000,
-    "name": "Rboard branding logo"
-  },
-  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/candidate_separator_disabler.zip",
     "author": "RKBDI",
     "tags": [
@@ -224,19 +180,6 @@
     "size": 403,
     "date": 1660146239000,
     "name": "candidate separator disabler"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/custombrandingimage.zip",
-    "author": "RKBDI",
-    "tags": [
-      "custom",
-      "image"
-    ],
-    "size": 1758,
-    "date": 1671900166000,
-    "name": "Custom branding image",
-    "customName": "branding.png",
-    "description": "Custom image"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/customiconaccess.zip",
@@ -436,8 +379,8 @@
     "tags": [
       "visual"
     ],
-    "size": 571,
-    "date": 1660047050000,
+    "size": 593,
+    "date": 1737816805000,
     "name": "Spacebar label disabler"
   },
   {
@@ -1061,28 +1004,6 @@
     "size": 6264,
     "date": 1675201572000,
     "name": "Smartisan icons"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/spaceb.zip",
-    "author": "RKBDI",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 2225,
-    "date": 1661365340000,
-    "name": "Space Black Branding"
-  },
-  {
-    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/spacew.zip",
-    "author": "RKBDI",
-    "tags": [
-      "branding",
-      "icons"
-    ],
-    "size": 2311,
-    "date": 1661365340000,
-    "name": "Space White Branding"
   },
   {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/square_keys.zip",

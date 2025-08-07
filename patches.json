@@ -91,6 +91,20 @@
     "name": "Amoledify"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/backgroundtransparency.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "value",
+      "visual"
+    ],
+    "size": 523,
+    "date": 1754588104000,
+    "name": "Background transparency",
+    "customName": "bgalpha",
+    "description": "Value for body transparency. Default 1.0 min 0.0 max 1.0"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/body_top_rounded.zip",
     "author": "RKBDI",
     "tags": [

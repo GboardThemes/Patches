@@ -10,6 +10,19 @@
     "name": "3D-ify"
   },
   {
+    "url": "https://github.com/GboardThemes/Patches/raw/master/patches/CustomLabelColor.zip",
+    "author": "RKBDI",
+    "tags": [
+      "custom",
+      "value"
+    ],
+    "size": 690,
+    "date": 1754585978000,
+    "name": "Custom border roundness",
+    "customName": "color_labelpatch",
+    "description": "Put here hex color for labels. example #000000FF the 000000 means black and that FF means alpha"
+  },
+  {
     "url": "https://github.com/GboardThemes/Patches/raw/master/patches/Custom_delete.zip",
     "author": "RKBDI",
     "tags": [

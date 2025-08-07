@@ -98,8 +98,8 @@
       "value",
       "visual"
     ],
-    "size": 523,
-    "date": 1754588104000,
+    "size": 790,
+    "date": 1754588590000,
     "name": "Background transparency",
     "customName": "bgalpha",
     "description": "Value for body transparency. Default 1.0 min 0.0 max 1.0"

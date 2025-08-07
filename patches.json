@@ -18,7 +18,7 @@
     ],
     "size": 690,
     "date": 1754585978000,
-    "name": "Custom label color",
+    "name": "Custom border roundness",
     "customName": "color_labelpatch",
     "description": "Put here hex color for labels. example #000000FF the 000000 means black and that FF means alpha"
   },
